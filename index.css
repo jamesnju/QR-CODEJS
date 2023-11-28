@@ -26,6 +26,7 @@ button{
     border: none;
     border-radius: 5px;
     cursor: pointer;
+    margin-bottom: 2rem;
 }
 button:hover{
     background: #222;
@@ -57,7 +58,7 @@ input{
     padding: 10px;
 }
 #qrbox.show-img{
-    max-height: 60rem;
+    max-height: 14rem;
     margin: 10px auto;
     border: 1px solid #d1d1d1;
 }
